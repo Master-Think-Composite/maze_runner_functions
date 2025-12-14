@@ -1,0 +1,26 @@
+say 25 entities summoned
+summon armor_stand "1" ~ ~ ~
+summon armor_stand "2" ~ ~ ~
+summon armor_stand "3" ~ ~ ~
+summon armor_stand "4" ~ ~ ~
+summon armor_stand "5" ~ ~ ~
+summon armor_stand "6" ~ ~ ~
+summon armor_stand "7" ~ ~ ~
+summon armor_stand "8" ~ ~ ~
+summon armor_stand "9" ~ ~ ~
+summon armor_stand "10" ~ ~ ~ 
+summon armor_stand "11" ~ ~ ~ 
+summon armor_stand "12" ~ ~ ~ 
+summon armor_stand "13" ~ ~ ~ 
+summon armor_stand "14" ~ ~ ~ 
+summon armor_stand "15" ~ ~ ~ 
+summon armor_stand "16" ~ ~ ~ 
+summon armor_stand "17" ~ ~ ~ 
+summon armor_stand "18" ~ ~ ~ 
+summon armor_stand "19" ~ ~ ~ 
+summon armor_stand "20" ~ ~ ~ 
+summon armor_stand "21" ~ ~ ~ 
+summon armor_stand "22" ~ ~ ~ 
+summon armor_stand "23" ~ ~ ~ 
+summon armor_stand "24" ~ ~ ~ 
+summon armor_stand "25" ~ ~ ~ 
