@@ -2,8 +2,8 @@
     "format_version": 2,
     "header": {
         "description": "§aBy MastermodeSQ\n§7Function Template to import and create functions",
-        "name": "§h[§aM§f&§cT§h] §8- §7Function Template",
-        "uuid": "94a00c77-e8f9-4526-9794-562357677bb3",
+        "name": "§h[§aM§f&§cT§h] §8- §7Function Template V2",
+        "uuid": "2fe83574-8bb7-4511-9c5f-420022bce2c6",
         "version": [1, 0, 0],
         "min_engine_version": [1, 21, 0]
     },
@@ -11,7 +11,7 @@
         {
             "description": "§aBy MastermodeSQ\n§7Function Template to import and create functions",
             "type": "data",
-            "uuid": "fd9f95a8-4f4e-4404-80f4-1fb668461069",
+            "uuid": "1778b348-71c6-454d-803f-4911609377fb",
             "version": [1, 0, 0]
         }
     ]
